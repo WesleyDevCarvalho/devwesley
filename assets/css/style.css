@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-dark {
+
+    background-color: black!important;
+}
+
+#topo p {
+
+    font-family: 'Open Sans', sans-serif!important;
+    font-weight: 400!important;
+}
+
+button {
+
+    padding: 15px;
+    width: 320px;
+    background-color: #44d62c;
+    color: black;
+    border: none;
+    font-family: 'Open Sans', sans-serif!important;
+    border-radius: 5px;
+}
+
+.whatsicon {
+
+    width: 15px;
+    position: relative;
+    bottom: 2px;
+}
+
+.container-text {
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container-text h3 {
+
+    color: #44d62c;
+}
+
+h1 {
+
+
+    color: #44d62c;
+
+}
+
+h3 {
+
+    color: #44d62c;
+
+}
+
+.container-text p {
+
+    color: white;
+    font-family: 'Open Sans', sans-serif!important;
+    font-weight: 400!important;
+}
+
+.container-text2 {
+
+    max-width: 1500px!important;
+    margin: 0 auto!important;
+}
+
+
+.container-text2 p {
+
+    color: white;
+    font-family: 'Open Sans', sans-serif!important;
+    font-weight: 400!important;
+    
+}
+
+.border-col {
+
+    border: solid 1px #44d62c;
+}
+
+i {
+
+    color: #44d62c;
+}
+
+.line-height {
+
+    line-height: 1px;
+}
+
+.line-height:hover {
+
+    color: #44d62c;
+}
+
+.image-product {
+
+    background-image: url("https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-1-1024x1024.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 380px;
+}
+
+.image-product2 {
+
+    background-image: url(https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-2-1024x1024.png);
+    background-size: cover;
+}
+
+.image-product3 {
+
+    background-image: url(https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-4-1024x1024.png);
+    background-size: cover;
+}
+
+.image-product4 {
+
+    background-image: url(https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-6-1024x1024.png);
+    background-size: cover;
+    height: 380px;
+}
+
+.image-product5 {
+
+    background-image: url(https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-3-1024x1024.png);
+    background-size: cover;
+}
+
+.image-product6 {
+
+    background-image: url(https://cdn-ddgnm.nitrocdn.com/TWZmruPlKlBCINHPyHWKfEQOMmJwCpKD/assets/static/optimized/rev-0432433/wp-content/uploads/2021/09/landing-page-5-1024x1024.png);
+    background-size: cover;
+}
+
+.container-5 {
+
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.background-green {
+
+    background-color:#44d62c ;
+    height: 550px;
+    width: 100%;
+    margin: 0;
+}
+
+.bg-p {
+
+    background-color: black!important;
+    color: white;
+}
+
+.line-height2 {
+
+    line-height: 40px;
+}
+
+#perguntas p {
+
+    color: #44d62c!important;
+}
+
+#perguntas {
+
+    height: 300px;
+}
+
+#faleconosco {
+
+    background-color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    width: 200px;
+    font-size: 20px;
+    color: #44d62c;
+    padding: 10px;
+    border-radius: 0px;
+}
+
+#faleconosco:hover {
+
+    background-color: white;
+    color: #44d62c;
+}
+
+#footers h5 {
+
+    font-size: 28px;
+    color: white;
+    line-height: 38px;
+}
+
+#footers p {
+
+    color: white;
+}
+
+.position {
+
+    position: relative;
+    bottom: 37px;
+}
+
+.icons {
+
+    position: relative;
+    right: 23px;
+    bottom: 50px;
+}
+
